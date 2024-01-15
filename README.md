@@ -2,6 +2,6 @@
 
 
 - 🌌 Moro em Natal - RN
-- 💻 Estudando JavaScript, HTML e CSS
+- 💻 Atualmente estudando JavaScript, HTML e CSS
 - 🎮 Desenvolvo jogos no tempo livre
 
