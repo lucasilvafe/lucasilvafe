@@ -27,4 +27,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
   <img width="20" />
   <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="40" alt="blender logo"  />
+  <img width="20" />
+  <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" height="40" alt="blender logo"  />
 </div>
