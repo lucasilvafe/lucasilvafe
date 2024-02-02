@@ -3,7 +3,9 @@
 - 💻 Atualmente estudando **JavaScript, HTML e CSS**
 - 🖥️ Cursando Analise e Desenvolvimento de Sistemas **Senac-RN**
 - 🎮 Desenvolvo jogos no tempo livre
+<div align="rigth">
 <img src=https://media.tenor.com/OVgTB0C7aT4AAAAi/kzary.gif />
+</div>
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=lucasilvafe&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=pt-br&hide_border=true" height="200" alt="stats graph"  />
 </div>
