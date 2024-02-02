@@ -1,4 +1,5 @@
 # Olá, Mundo! me chamo Lucas Ferreira 
+<img src=https://media.tenor.com/OVgTB0C7aT4AAAAi/kzary.gif />
 - 🌌 Moro em Natal - RN
 - 💻 Atualmente estudando **JavaScript, HTML e CSS**
 - 🖥️ Cursando Analise e Desenvolvimento de Sistemas **Senac-RN**
