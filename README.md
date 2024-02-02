@@ -12,7 +12,7 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"/>
 
-  <img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" width="20" height="40" alt="Csharp icon"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" width="40" height="40" alt="Csharp icon"/>
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="40" alt="html5 logo"/>
 
