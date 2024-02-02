@@ -11,28 +11,29 @@
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"/>
-  <img width="100" />
+
+  <img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" width="20" height="40" alt="Csharp icon"/>
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="40" alt="html5 logo"/>
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="40" alt="css3 logo"/>
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" height="40" alt="php logo"/>
-  <img width="10" />
-  <img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" height="40" alt="Csharp icon"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="20" height="40" alt="css3 logo"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="20" height="40" alt="php logo"/>
+
 </div>
 
 ## Skills
 
 <div align="left">
-  <img src="https://cdn2.steamgriddb.com/icon/e500b7708a865ec27eef36c33953b06e/32/256x256.png" height="40" alt="Game Maker Studio 2 icon"/> 
-  <img width="10" />
-  <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/unity-512.png" height="40" alt="Unity icon"/>
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="Blender icon"/>
-  <img width="10" />
-  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="40" alt="Github icon"/>
-  <img width="10" />
-  <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" height="40" alt="Git icon"/>
-  <img width="10" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png" height="40" alt="Photoshop icon"/>
+  <img src="https://cdn2.steamgriddb.com/icon/e500b7708a865ec27eef36c33953b06e/32/256x256.png" width="20" height="40" alt="Game Maker Studio 2 icon"/> 
+  
+  <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/unity-512.png" width="20" height="40" alt="Unity icon"/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="20" height="40" alt="Blender icon"/>
+  
+  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="20" height="40" alt="Github icon"/>
+  
+  <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="20" height="40" alt="Git icon"/>
+  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png" width="20" height="40" alt="Photoshop icon"/>
 </div>
