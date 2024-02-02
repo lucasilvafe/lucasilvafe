@@ -3,7 +3,7 @@
 - 💻 Atualmente estudando **JavaScript, HTML e CSS**
 - 🖥️ Cursando Analise e Desenvolvimento de Sistemas **Senac-RN**
 - 🎮 Desenvolvo jogos no tempo livre
-<div align="rigth">
+<div align="right">
 <img src=https://media.tenor.com/OVgTB0C7aT4AAAAi/kzary.gif />
 </div>
 <div align="left">
