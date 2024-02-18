@@ -13,7 +13,7 @@
 ## Linguagens e Ferramentas
 
 <div align="left">
-  <a href =https://developer.mozilla.org/pt-BR/docs/Web/JavaScript target =_blank><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript icon"/></a>
+  <a href ="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target =_blank><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript icon"/></a>
   <img width="15"/>
   <a href =https://www.typescriptlang.org/pt/docs/><img src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg" height="40" alt="typescript icon"/></a>
   <img width="15"/>
