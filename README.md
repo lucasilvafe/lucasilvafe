@@ -33,15 +33,15 @@
 ### Minhas Habilidades
 
 <div align="left">
-  <img src="https://cdn2.steamgriddb.com/icon/e500b7708a865ec27eef36c33953b06e/32/256x256.png" height="40" alt="Game Maker Studio 2 icon"/> 
+  <a href ="https://gamemaker.io/pt-BR"><img src="https://cdn2.steamgriddb.com/icon/e500b7708a865ec27eef36c33953b06e/32/256x256.png" height="40" alt="Game Maker Studio 2 icon"/></a>
   <img width="15"/>
-  <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/unity-512.png" height="40" alt="Unity icon"/>
+  <a href ="https://unity.com/pt"><img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/unity-512.png" height="40" alt="Unity icon"/></a>
   <img width="15"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="Blender icon"/>
+  <a href ="https://www.blender.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="Blender icon"/></a>
   <img width="15"/>
-  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="40" alt="Github icon"/>
+  <a href ="https://git-scm.com/"><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="40" alt="Github icon"/></a>
   <img width="15"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" height="40" alt="Git icon"/>
+  <a href ="https://github.com/lucasilvafe"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" height="40" alt="Git icon"/></a>
   <img width="15"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png" height="40" alt="Photoshop icon"/>
+  <a href ="https://www.adobe.com/br/products/photoshop.html"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png" height="40" alt="Photoshop icon"/></a>
 </div>
