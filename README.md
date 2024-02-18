@@ -13,7 +13,7 @@
 ## Linguagens e Ferramentas
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript icon"/><a href =https://developer.mozilla.org/pt-BR/docs/Web/JavaScript>sss</a>
+  <a href =https://developer.mozilla.org/pt-BR/docs/Web/JavaScript><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript icon"/></a>
   <img width="15"/>
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" height="40" alt="typescript icon"/>
   <img width="15"/>
