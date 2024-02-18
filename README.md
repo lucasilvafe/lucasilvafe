@@ -1,7 +1,4 @@
-<h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;+me+chamo+Lucas!;" />
-</h1>
-# Hello World! I'm Lucas 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&duration=4000&pause=1000&color=F7F7F7&center=true&vCenter=true&random=true&width=435&lines=Ol%C3%A1+Mundo!;Me+chamo+Lucas)](https://git.io/typing-svg)
 - 🌌 Living in Natal - RN
 - 💻 Learnig **Typescript, HTML e CSS**
 - 🖥️ studying Analysis and systems development **Senac-RN**
