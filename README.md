@@ -15,7 +15,7 @@
 <div align="left">
   <a href ="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript icon"/></a>
   <img width="15"/>
-  <a href ="https://www.typescriptlang.org/pt/"><img src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg" height="40" alt="typescript icon"/></a>
+  <a href ="https://static-00.iconduck.com/assets.00/typescript-icon-icon-1024x1024-vh3pfez8.png" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg" height="40" alt="typescript icon"/></a>
   <img width="15"/>
   <a href =""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="40" alt="html5 icon"/>
   <img width="15"/>
