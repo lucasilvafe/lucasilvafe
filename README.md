@@ -1,8 +1,8 @@
-# Olá, Mundo! me chamo Lucas Ferreira 
-- 🌌 Moro em Natal - RN
-- 💻 Atualmente estudando **Typescript, HTML e CSS**
-- 🖥️ Cursando Analise e Desenvolvimento de Sistemas **Senac-RN**
-- 🎮 Desenvolvedor de jogos no tempo livre
+# Hello World! I'm Lucas 
+- 🌌 Living in Natal - RN
+- 💻 Learnig **Typescript, HTML e CSS**
+- 🖥️ studying Analysis and systems development **Senac-RN**
+- 🎮 Game developer in free time
 <div align="right">
 <img src=https://media.tenor.com/OVgTB0C7aT4AAAAi/kzary.gif />
 </div>
@@ -14,7 +14,7 @@
 
 
 
-## Linguagens e Ferramentas
+## Language & tools
 
 <div align="left">
   <a href ="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript icon"/></a>
@@ -33,7 +33,7 @@
 
 </div>
 
-### Minhas Habilidades
+### My skills
 
 <div align="left">
   <a href ="https://gamemaker.io/pt-BR"><img src="https://cdn2.steamgriddb.com/icon/e500b7708a865ec27eef36c33953b06e/32/256x256.png" height="40" alt="Game Maker Studio 2 icon"/></a>
