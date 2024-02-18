@@ -1,4 +1,5 @@
 <h1>
+  
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&duration=4000&pause=1000&color=F7F7F7&center=true&vCenter=true&random=true&width=435&lines=Ol%C3%A1+Mundo!;Me+chamo+Lucas)](https://git.io/typing-svg)
 </h1>
 - 🌌 Living in Natal - RN
