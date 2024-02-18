@@ -7,10 +7,9 @@
 <img src=https://media.tenor.com/OVgTB0C7aT4AAAAi/kzary.gif />
 </div>
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucasilvafe&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=pt-br&hide_border=true" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=lucasilvafe&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=pt-br&hide_border=true" height="200" alt="stats graph"  />
 </div>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=lucasilvafe&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasilvafe&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ## Linguagens e Ferramentas
