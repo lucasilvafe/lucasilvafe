@@ -47,5 +47,5 @@
   <a href ="https://github.com/lucasilvafe"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" height="40" alt="Git icon"/></a>
   <img width="15"/>
   <a href ="https://www.adobe.com/br/products/photoshop.html"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png" height="40" alt="Photoshop icon"/></a>
-  <img src="https://community.aseprite.org/uploads/default/original/2X/6/66c33251292331d29585d32632c3870651b66e01.png">
+  <img src="https://community.aseprite.org/uploads/default/original/2X/6/66c33251292331d29585d32632c3870651b66e01.png" height="40">
 </div>
