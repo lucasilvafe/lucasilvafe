@@ -1,6 +1,6 @@
 <h1>
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&duration=3000&pause=1000&color=F7F7F7&center=true&multiline=true&repeat=false&random=false&width=435&lines=Ol%C3%A1+Mundo!;Me+chamo+Lucas)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&duration=3000&pause=1000&color=F7F7F7&center=true&multiline=true&random=false&width=435&lines=Ol%C3%A1+Mundo!;Me+chamo+Lucas)](https://git.io/typing-svg)
 </h1>
 
 - 🌌 Living in Natal - RN
