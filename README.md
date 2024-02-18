@@ -6,8 +6,8 @@
 <div align="right">
 <img src=https://media.tenor.com/OVgTB0C7aT4AAAAi/kzary.gif />
 </div>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasilvafe&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 <div align="left">
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasilvafe&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
   <img src="https://github-readme-stats.vercel.app/api?username=lucasilvafe&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="200" alt="stats graph"  />
 </div>
 
