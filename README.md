@@ -2,7 +2,7 @@
 - 🌌 Living in Natal - RN
 - 💻 Learnig **Typescript, HTML e CSS**
 - 🖥️ studying Analysis and systems development **Senac-RN**
-- 🎮 Game developer in free time
+- 🎮 GameDeveloper
 <div>
 <img src=https://media.tenor.com/OVgTB0C7aT4AAAAi/kzary.gif />
 </div>
