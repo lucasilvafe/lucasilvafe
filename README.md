@@ -45,3 +45,7 @@
   <img width="15"/>
   <a href ="https://www.adobe.com/br/products/photoshop.html"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png" height="40" alt="Photoshop icon"/></a>
 </div>
+
+<img src="https://raw.githubusercontent.com/lucasilvafe/lucasilvafe/output/snake.svg" alt="Snake animation" />
+
+###
