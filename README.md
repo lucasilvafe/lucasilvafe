@@ -1,4 +1,6 @@
+<img src="https://raw.githubusercontent.com/lucasilvafe/lucasilvafe/output/snake.svg" alt="Snake animation" />
 
+###
 # Olá, Mundo! me chamo Lucas Ferreira 
 - 🌌 Moro em Natal - RN
 - 💻 Atualmente estudando **Typescript, HTML e CSS**
