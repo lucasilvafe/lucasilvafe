@@ -4,7 +4,7 @@
 </h1>
 
 - 🌌 Living in Natal - RN
-- 💻 Learnig **Typescript, HTML e CSS**
+- 💻 Learnig **Typescript, HTML and CSS**
 - 🖥️ studying Analysis and systems development **Senac-RN**
 - 🎮 GameDeveloper
 <div>
