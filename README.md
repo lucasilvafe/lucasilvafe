@@ -1,5 +1,5 @@
 <h1 aling="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&weight=700&size=120&duration=1000&pause=2000&color=445EF7&center=true&multiline=true&random=false&width=1920&height=150&lines=Ol%C3%A1+Mundo!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&weight=700&size=120&duration=2000&pause=2000&color=445EF7&center=true&multiline=true&random=false&width=1920&height=150&lines=Ol%C3%A1+Mundo!" alt="Typing SVG" /></a>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&weight=700&size=120&duration=1000&pause=1000&color=445EF7&center=true&multiline=true&random=false&width=1920&height=150&lines=me+chamo+Lucas" alt="Typing SVG" /></a>
 </h1>
 
