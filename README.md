@@ -1,4 +1,4 @@
-<h1 aling="center">
+<h1 text-aling="center">
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&duration=2000&pause=000&color=2C5DF7&center=true&multiline=true&random=false&width=435&lines=Ol%C3%A1+Mundo!;Me+chamo+Lucas)](https://git.io/typing-svg)
 </h1>
