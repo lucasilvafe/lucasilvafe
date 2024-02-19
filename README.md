@@ -1,8 +1,6 @@
-<div aling="center">
 <h1 aling="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&weight=700&size=47&duration=1000&pause=1000&color=445EF7&center=true&multiline=true&random=true&width=550&height=120&lines=+++++++++++++Ol%C3%A1+Mundo!;Me+chamo+Lucas" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&weight=700&size=47&duration=1000&pause=1000&color=445EF7&center=true&multiline=true&random=true&width=1920&height=200&lines=Ol%C3%A1+Mundo!;Me+chamo+Lucas" alt="Typing SVG" /></a>
 </h1>
-</div>
 
 - 🌌 Living in Natal - RN
 - 💻 Learnig **Typescript, HTML e CSS**
