@@ -34,6 +34,7 @@
 </section>
 
 <section align="center">
+  <br/>
   <a href ="https://gamemaker.io/pt-BR"><img src="https://cdn2.steamgriddb.com/icon/e500b7708a865ec27eef36c33953b06e/32/256x256.png" height="40" alt="Game Maker Studio 2 icon" title="Game maker"/></a>
   <img width="15"/>
   <a href ="https://unity.com/pt"><img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/unity-512.png" height="40" alt="Unity icon" title="Unity"/></a>
