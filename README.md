@@ -20,13 +20,13 @@
   <img width="15"/>
   <a href ="https://www.typescriptlang.org/pt/"><img src="https://static-00.iconduck.com/assets.00/typescript-icon-icon-1024x1024-vh3pfez8.png" height="40" alt="typescript icon" title="TypeScript"/></a>
   <img width="15"/>
-  <a href ="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="40" alt="html5 icon" title="HTML5"/></a>
+  <a href ="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="40" alt="html5 icon" title="HTML 5"/></a>
   <img width="15"/>
-  <a href ="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="40" alt="css3 icon" title="CSS3"/></a>
+  <a href ="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="40" alt="css3 icon" title="CSS 3"/></a>
   <img width="15"/>
   <a href ="https://code.visualstudio.com/"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" height="40" alt="Visualstudiocode icon" title="VS Code"/></a>
   <img width="15"/>
-  <a href ="https://learn.microsoft.com/pt-br/dotnet/csharp/"><img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" height="40" alt="Csharp icon" title="C#"/></a>
+  <a href ="https://learn.microsoft.com/pt-br/dotnet/csharp/"><img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" height="40" alt="Csharp icon" title="C Sharp"/></a>
   <img width="15"/>
   <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/php_plain_logo_icon_146397.png" height="40" alt="php icon" title="PHP"/>
   <img width="15"/>
