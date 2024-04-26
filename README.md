@@ -17,10 +17,8 @@
 <section align="center">
   <a href ="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript icon" title="JavaScript"/></a>
   <img width="15"/>
-  
   <a href ="https://www.typescriptlang.org/pt/"><img src="https://static-00.iconduck.com/assets.00/typescript-icon-icon-1024x1024-vh3pfez8.png" height="40" alt="typescript icon" title="TypeScript"/></a>
   <img width="15"/>
-  <img height="15"/>
   <a href ="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="40" alt="html5 icon" title="HTML 5"/></a>
   <img width="15"/>
   <a href ="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="40" alt="css3 icon" title="CSS 3"/></a>
@@ -32,6 +30,7 @@
   <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/php_plain_logo_icon_146397.png" height="40" alt="php icon" title="PHP"/>
   <img width="15"/>
   <img src="https://logodownload.org/wp-content/uploads/2016/10/Microsoft-SQL-Server-Logo-1.png" height="40" alt="SQL icon" title="SQL Server"/>
+  <img height="15"/>
 
 </section>
 
