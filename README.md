@@ -12,11 +12,9 @@
   <img src=https://media.tenor.com/OVgTB0C7aT4AAAAi/kzary.gif alt="Emoji Nerd" title="Nerdinho"/>
 </figure>
   
-  <main>
-    
+  <div>
     ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasilvafe&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-    
-  </main>
+  <div/>
   
 <div/>
 <h2 aling="center">Leangueges & Tools</h2>
