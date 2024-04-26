@@ -29,7 +29,7 @@
   <a href ="https://learn.microsoft.com/pt-br/dotnet/csharp/"><img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" height="40" alt="Csharp icon"/></a>
   <img width="15"/>
   <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/php_plain_logo_icon_146397.png" height="40" alt="php icon"/>
-
+  <img width="15"/>
   <img src="https://logodownload.org/wp-content/uploads/2016/10/Microsoft-SQL-Server-Logo-1.png" height="40" alt="php icon"/>
 
 </section>
