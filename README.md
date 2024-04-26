@@ -7,12 +7,16 @@
 - 💻 Learnig **Typescript, HTML and CSS**
 - 🖥️ studying Analysis and systems development **Senac-RN**
 - 🎮 GameDeveloper
+<div id="statistics">
 <figure>
   <img src=https://media.tenor.com/OVgTB0C7aT4AAAAi/kzary.gif alt="Emoji Nerd" title="Nerdinho"/>
 </figure>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasilvafe&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
+  
+  <main>
+    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasilvafe&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+  </main>
+  
+<div/>
 <h2 aling="center">Leangueges & Tools</h2>
 <section align="center">
   <a href ="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript icon" title="JavaScript"/></a>
