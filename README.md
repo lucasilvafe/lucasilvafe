@@ -49,3 +49,9 @@
   <img width="15"/>
   <a href ="https://www.aseprite.org/"><img src="https://community.aseprite.org/uploads/default/original/2X/6/66c33251292331d29585d32632c3870651b66e01.png" height="40"></a>
 </div>
+
+<section align="center">
+  <a href="https://open.spotify.com/user/LuscaMolusco">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=LuscaMolusco&count=5" alt="Spotify recently played"  />
+  </a>
+</srction>
