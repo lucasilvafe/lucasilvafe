@@ -4,7 +4,7 @@
 
 - 🌌 Living in Natal - RN
 - 💻 Learnig **Typescript, HTML and CSS**
-- 🖥️ studying Analysis and systems development **Senac-RN**
+- 🖥️ Studying Analysis and systems development **Senac-RN**
 - 🎮 GameDeveloper
     
 <h2 aling="center">Languages & Tools</h2>
