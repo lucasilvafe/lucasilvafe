@@ -7,7 +7,7 @@
 - 🖥️ studying Analysis and systems development **Senac-RN**
 - 🎮 GameDeveloper
     
-<h2 aling="center">Leangueges & Tools</h2>
+<h2 aling="center">Langueges & Tools</h2>
 <section align="center">
   <a href ="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript icon" title="JavaScript"/></a>
   <img width="15"/>
