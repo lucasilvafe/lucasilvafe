@@ -30,6 +30,8 @@
   <img width="15"/>
   <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/php_plain_logo_icon_146397.png" height="40" alt="php icon"/>
 
+  <img src="https://e7.pngegg.com/pngimages/162/121/png-clipart-microsoft-sql-server-computer-servers-sql-server-management-studio-microsoft-angle-triangle.png" height="40" alt="php icon"/>
+
 </section>
 
 ## Skills
