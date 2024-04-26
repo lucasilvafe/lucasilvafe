@@ -15,7 +15,7 @@
 
 ## Languages & tools
 
-<main align="left">
+<section align="left">
   <a href ="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript icon"/></a>
   <img width="15"/>
   <a href ="https://www.typescriptlang.org/pt/"><img src="https://static-00.iconduck.com/assets.00/typescript-icon-icon-1024x1024-vh3pfez8.png" height="40" alt="typescript icon"/></a>
@@ -30,11 +30,11 @@
   <img width="15"/>
   <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/php_plain_logo_icon_146397.png" height="40" alt="php icon"/>
 
-</main>
+</section>
 
 ## Skills
 
-<main align="left">
+<section align="left">
   <a href ="https://gamemaker.io/pt-BR"><img src="https://cdn2.steamgriddb.com/icon/e500b7708a865ec27eef36c33953b06e/32/256x256.png" height="40" alt="Game Maker Studio 2 icon"/></a>
   <img width="15"/>
   <a href ="https://unity.com/pt"><img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/unity-512.png" height="40" alt="Unity icon"/></a>
@@ -48,4 +48,4 @@
   <a href ="https://www.adobe.com/br/products/photoshop.html"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png" height="40" alt="Photoshop icon"/></a>
   <img width="15"/>
   <a href ="https://www.aseprite.org/"><img src="https://community.aseprite.org/uploads/default/original/2X/6/66c33251292331d29585d32632c3870651b66e01.png" height="40"></a>
-</main>
+</section>
