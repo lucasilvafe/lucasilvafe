@@ -34,7 +34,7 @@
 
 </section>
 
-## Skills
+Skills
 
 <section align="center">
   <a href ="https://gamemaker.io/pt-BR"><img src="https://cdn2.steamgriddb.com/icon/e500b7708a865ec27eef36c33953b06e/32/256x256.png" height="40" alt="Game Maker Studio 2 icon" title="Game maker"/></a>
