@@ -13,7 +13,7 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasilvafe&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<h1 text-aling="center">Leangueges & Tools</h1>
+<h2 aling="center">Leangueges & Tools</h2>
 <section align="center">
   <a href ="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript icon" title="JavaScript"/></a>
   <img width="15"/>
@@ -32,7 +32,6 @@
   <img src="https://logodownload.org/wp-content/uploads/2016/10/Microsoft-SQL-Server-Logo-1.png" height="40" alt="SQL icon" title="SQL Server"/>
 
 </section>
-Skills
 
 <section align="center">
   <a href ="https://gamemaker.io/pt-BR"><img src="https://cdn2.steamgriddb.com/icon/e500b7708a865ec27eef36c33953b06e/32/256x256.png" height="40" alt="Game Maker Studio 2 icon" title="Game maker"/></a>
