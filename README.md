@@ -16,21 +16,21 @@
 ## Languages & tools
 
 <section align="left">
-  <a href ="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript icon"/></a>
+  <a href ="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript icon" title="JavaScript"/></a>
   <img width="15"/>
-  <a href ="https://www.typescriptlang.org/pt/"><img src="https://static-00.iconduck.com/assets.00/typescript-icon-icon-1024x1024-vh3pfez8.png" height="40" alt="typescript icon"/></a>
+  <a href ="https://www.typescriptlang.org/pt/"><img src="https://static-00.iconduck.com/assets.00/typescript-icon-icon-1024x1024-vh3pfez8.png" height="40" alt="typescript icon" title="TypeScript"/></a>
   <img width="15"/>
-  <a href ="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="40" alt="html5 icon"/></a>
+  <a href ="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="40" alt="html5 icon" title="HTML5"/></a>
   <img width="15"/>
-  <a href ="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="40" alt="css3 icon"/></a>
+  <a href ="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="40" alt="css3 icon" title="CSS3"/></a>
   <img width="15"/>
-  <a href ="https://code.visualstudio.com/"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" height="40" alt="Visualstudiocode icon"/></a>
+  <a href ="https://code.visualstudio.com/"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" height="40" alt="Visualstudiocode icon" title="VS Code"/></a>
   <img width="15"/>
-  <a href ="https://learn.microsoft.com/pt-br/dotnet/csharp/"><img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" height="40" alt="Csharp icon"/></a>
+  <a href ="https://learn.microsoft.com/pt-br/dotnet/csharp/"><img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" height="40" alt="Csharp icon" title="C#"/></a>
   <img width="15"/>
-  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/php_plain_logo_icon_146397.png" height="40" alt="php icon"/>
+  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/php_plain_logo_icon_146397.png" height="40" alt="php icon" title="PHP"/>
   <img width="15"/>
-  <img src="https://logodownload.org/wp-content/uploads/2016/10/Microsoft-SQL-Server-Logo-1.png" height="40" alt="php icon"/>
+  <img src="https://logodownload.org/wp-content/uploads/2016/10/Microsoft-SQL-Server-Logo-1.png" height="40" alt="SQL icon" title="SQL Server"/>
 
 </section>
 
@@ -43,9 +43,9 @@
   <img width="15"/>
   <a href ="https://www.blender.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="Blender icon" title="Blender"/></a>
   <img width="15"/>
-  <a href ="https://git-scm.com/"><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="40" alt="Github icon" title="Github"/></a>
+  <a href ="https://git-scm.com/"><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="40" alt="Git icon" title="Git"/></a>
   <img width="15"/>
-  <a href ="https://github.com/lucasilvafe"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" height="40" alt="Git icon" title="Git"/></a>
+  <a href ="https://github.com/lucasilvafe"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" height="40" alt="Github icon" title="Github"/></a>
   <img width="15"/>
   <a href ="https://www.adobe.com/br/products/photoshop.html"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png" height="40" alt="Photoshop icon" title="Photoshop"/></a>
   <img width="15"/>
