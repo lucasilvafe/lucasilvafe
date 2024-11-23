@@ -9,27 +9,27 @@
     
 <h2 aling="center">Languages & Tools</h2>
 <section align="center">
-  <a href ="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript icon" title="JavaScript"/></a>
-  <img width="15"/>
-  <a href ="https://www.typescriptlang.org/pt/"><img src="https://static-00.iconduck.com/assets.00/typescript-icon-icon-1024x1024-vh3pfez8.png" height="40" alt="typescript icon" title="TypeScript"/></a>
-  <img width="15"/>
-  <a href ="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="40" alt="html5 icon" title="HTML 5"/></a>
-  <img width="15"/>
-  <a href ="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="40" alt="css3 icon" title="CSS 3"/></a>
-  <img width="15"/>
-  <a href ="https://code.visualstudio.com/"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" height="40" alt="Visualstudiocode icon" title="VS Code"/></a>
-  <img width="15"/>
-  <a href ="https://learn.microsoft.com/pt-br/dotnet/csharp/"><img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" height="40" alt="Csharp icon" title="C Sharp"/></a>
-  <img width="15"/>
-  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/php_plain_logo_icon_146397.png" height="40" alt="php icon" title="PHP"/>
-  <img width="15"/>
+    <a href ="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript icon" title="JavaScript"/></a>
+    <img width="15"/>
+    <a href ="https://www.typescriptlang.org/pt/"><img src="https://static-00.iconduck.com/assets.00/typescript-icon-icon-1024x1024-vh3pfez8.png" height="40" alt="typescript icon" title="TypeScript"/></a>
+    <img width="15"/>
+    <a href ="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="40" alt="html5 icon" title="HTML 5"/></a>
+    <img width="15"/>
+    <a href ="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="40" alt="css3 icon" title="CSS 3"/></a>
+    <img width="15"/>
+    <a href ="https://code.visualstudio.com/"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" height="40" alt="Visualstudiocode icon" title="VS Code"/></a>
+    <img width="15"/>
+    <a href ="https://learn.microsoft.com/pt-br/dotnet/csharp/"><img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" height="40" alt="Csharp icon" title="C Sharp"/></a>
+    <img width="15"/>
+    <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/php_plain_logo_icon_146397.png" height="40" alt="php icon" title="PHP"/>
+    <img width="15"/>
     <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_original_wordmark_logo_icon_146392.png" height="40" alt="Postegres icon" title="Postgres"/>
     <img width="15"/>
-  <img src="https://logodownload.org/wp-content/uploads/2016/10/Microsoft-SQL-Server-Logo-1.png" height="40" alt="SQL icon" title="SQL Server"/>
+    <img src="https://logodownload.org/wp-content/uploads/2016/10/Microsoft-SQL-Server-Logo-1.png" height="40" alt="SQL icon" title="SQL Server"/>
     <img width="15"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" height="40" alt="Reactnative icon" title="Reactnative"/>
+    <img src="https://w7.pngwing.com/pngs/344/176/png-transparent-react-react-native-logos-brands-in-colors-icon-thumbnail.png" height="40" alt="Reactnative icon" title="Reactnative"/>
     <img width="15"/>
-<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/electron-icon.png" height="40" alt="Electron icon" title="Electron"/>
+    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/electron-icon.png" height="40" alt="Electron icon" title="Electron"/>
 </section>
   <br>
 <section align="center">
