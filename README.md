@@ -1,6 +1,6 @@
 
 
-<img src=https://media.tenor.com/OVgTB0C7aT4AAAAi/kzary.gif alt="Emoji Nerd" title="Nerdinho"/><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=25&pause=1000&color=F7F547&random=false&width=435&lines=Hello+world!+me'chamo+Lucas" alt="Typing SVG" /></a>
+<img src=https://media.tenor.com/OVgTB0C7aT4AAAAi/kzary.gif alt="Emoji Nerd" title="Nerdinho"/><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=25&pause=1000&color=F7F547&random=false&width=435&lines=console.log='Oi'" alt="Typing SVG" /></a>
 
 - 🌌 Moro em Natal - RN
 - 🖥️ Estudante do curso de desenvolvimento de sistemas **Senac-RN**
