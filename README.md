@@ -23,11 +23,13 @@
   <img width="15"/>
   <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/php_plain_logo_icon_146397.png" height="40" alt="php icon" title="PHP"/>
   <img width="15"/>
+    <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_original_wordmark_logo_icon_146392.png" height="40" alt="Postegres icon" title="Postgres"/>
+    <img width="15"/>
   <img src="https://logodownload.org/wp-content/uploads/2016/10/Microsoft-SQL-Server-Logo-1.png" height="40" alt="SQL icon" title="SQL Server"/>
     <img width="15"/>
-<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/electron-icon.png" height="40" alt="SQL icon" title="Electron"/>
- <img width="15"/>
-<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_original_wordmark_logo_icon_146392.png" height="40" alt="SQL icon" title="Postgres"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" height="40" alt="Reactnative icon" title="Reactnative"/>
+    <img width="15"/>
+<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/electron-icon.png" height="40" alt="Electron icon" title="Electron"/>
 </section>
   <br>
 <section align="center">
