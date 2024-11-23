@@ -27,7 +27,7 @@
     <img width="15"/>
     <img src="https://logodownload.org/wp-content/uploads/2016/10/Microsoft-SQL-Server-Logo-1.png" height="40" alt="SQL icon" title="SQL Server"/>
     <img width="15"/>
-    <img src="https://w7.pngwing.com/pngs/344/176/png-transparent-react-react-native-logos-brands-in-colors-icon-thumbnail.png" height="40" alt="Reactnative icon" title="Reactnative"/>
+    <img src="https://miro.medium.com/v2/resize:fit:1000/1*aSrbNXCNknnKfrVscb_BAg.png" height="40" alt="Reactnative icon" title="Reactnative"/>
     <img width="15"/>
     <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/electron-icon.png" height="40" alt="Electron icon" title="Electron"/>
 </section>
