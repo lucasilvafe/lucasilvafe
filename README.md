@@ -22,7 +22,7 @@
     <img width="15"/>
     <img src="https://cdn.iconscout.com/icon/free/png-256/free-php-99-1175127.png?f=webp" height="40" alt="php icon" title="PHP"/>
     <img width="15"/>
-    <img src="https://e7.pngegg.com/pngimages/738/738/png-clipart-postgresql-database-logo-application-software-computer-software-mysql-logo-blue-text.png" height="40" alt="Postegres icon" title="Postgres"/>
+    <img src="https://raw.githubusercontent.com/docker-library/docs/01c12653951b2fe592c1f93a13b4e289ada0e3a1/postgres/logo.png" height="40" alt="Postegres icon" title="Postgres"/>
     <img width="15"/>
     <img src="https://logodownload.org/wp-content/uploads/2016/10/Microsoft-SQL-Server-Logo-1.png" height="40" alt="SQL icon" title="SQL Server"/>
     <img width="15"/>
