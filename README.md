@@ -16,7 +16,7 @@
     <img width="15"/>
     <a href ="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="40" alt="css3 icon" title="CSS 3"/></a>
     <img width="15"/>
-    <a href ="https://code.visualstudio.com/"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" height="40" alt="Visualstudiocode icon" title="VS Code"/></a>
+    <a href ="https://code.visualstudio.com/"><img src="[https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png](https://e7.pngegg.com/pngimages/440/1013/png-clipart-microsoft-visual-studio-visual-studio-code-source-code-editor-computer-icons-coder-blue-angle.png)" height="40" alt="Visualstudiocode icon" title="VS Code"/></a>
     <img width="15"/>
     <a href ="https://learn.microsoft.com/pt-br/dotnet/csharp/"><img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" height="40" alt="Csharp icon" title="C Sharp"/></a>
     <img width="15"/>
