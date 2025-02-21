@@ -20,7 +20,7 @@
     <img width="15"/>
     <a href ="https://learn.microsoft.com/pt-br/dotnet/csharp/"><img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" height="40" alt="Csharp icon" title="C Sharp"/></a>
     <img width="15"/>
-    <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/php_plain_logo_icon_146397.png" height="40" alt="php icon" title="PHP"/>
+    <img src="https://cdn.iconscout.com/icon/free/png-256/free-php-99-1175127.png?f=webp" height="40" alt="php icon" title="PHP"/>
     <img width="15"/>
     <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_original_wordmark_logo_icon_146392.png" height="40" alt="Postegres icon" title="Postgres"/>
     <img width="15"/>
